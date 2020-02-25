@@ -21,6 +21,10 @@ div {
   background-color: blue;
 }
 
+.pink {
+  background-color: pink;
+}
+
 .invisible {
   display: none;
 }
@@ -30,4 +34,8 @@ div {
   border: 3px black dashed;
   border-radius: 0;
   background-color: white;
+}
+
+.green {
+  background-color: green;
 }
